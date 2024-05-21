@@ -92,6 +92,10 @@ I worked as a web developer for 3+ years. Then, I had to take a break for a year
 
 
 
+### Opensource activity
+* [Raycast/extensions/speedtest](https://www.raycast.com/tonka3000/speedtest)
+* [Ryacast/extensions/consoledev](https://www.raycast.com/fedevitaledev/consoledev)
+
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaksandrZh&layout=compact)
