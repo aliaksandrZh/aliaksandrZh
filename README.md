@@ -1,9 +1,5 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg5YTVpZHlveGR2dTd1MGIwcWE5Y2x5a2w3czRkeG5va3ppYnJnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
-  <h1>Hi there, I'm Aliaksandr Zhebit 👋</h1>
-  <p>I'm a Software engineer with a passion for web development.</p>
-</div>
+![banner-2](https://github.com/aliaksandrZh/aliaksandrZh/assets/108681764/3cc527f3-7851-47a6-9518-8dc8c81bc2b4)
+#### I'm a Software engineer with a passion for web development.
 
 ### Connect with me: ###
 
