@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=06161D&random=false&width=600&height=400&lines=Hi+there+%F0%9F%91%8B!;I'm+Aliaksandr+Zhebit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=06161D&random=false&width=600&height=400&lines=Hi+%F0%9F%91%8B!;I'm+Aliaksandr+Zhebit)](https://git.io/typing-svg)
 
  I'm a Software engineer with a passion  for web development.
 
