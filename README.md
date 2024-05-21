@@ -1,8 +1,11 @@
-# Hi there, I'm Aliaksandr Zhebit 👋
 
-Welcome to my GitHub profile! I'm a Software engineer with a passion for web development.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg5YTVpZHlveGR2dTd1MGIwcWE5Y2x5a2w3czRkeG5va3ppYnJnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
+  <h1>Hi there, I'm Aliaksandr Zhebit 👋</h1>
+  <p>I'm a Software engineer with a passion for web development.</p>
+</div>
 
-### Connect with me:
+### Connect with me: ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-zhebit-65489b272/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaksandr,zhebit@gmail.com)
@@ -94,15 +97,6 @@ I worked as a web developer for 3+ years. Then, I had to take a break for a year
 
 
 
-### GitHub Stats
-![Your Contribution Graph](https://github.com/users/aliaksandrZh/contributions)
-![aliaksandrZh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliaksandrZh&show_icons=true&theme=radical)
-
 ### Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaksandrZh&layout=compact)
 
-
-### Profile Views
-
-![Profile views](https://gpvc.arturio.dev/aliaksandrZh)
