@@ -1,11 +1,10 @@
 ![banner-2](https://github.com/aliaksandrZh/aliaksandrZh/assets/108681764/3cc527f3-7851-47a6-9518-8dc8c81bc2b4)
-#### I'm a Software engineer with a passion for web development.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&random=false&width=460&height=100&lines=I'm+a+Software+engineer+with+a+passion;+for+web+development.)](https://git.io/typing-svg)
 
 ### Connect with me: ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-zhebit-65489b272/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaksandr,zhebit@gmail.com)
-
 
 ### Skills
 
