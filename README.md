@@ -85,12 +85,6 @@ I worked as a web developer for 3+ years. Then, I had to take a break for a year
 </details>
 
 
-<details>
-  <summary>Click to reveal</summary>
-  <p>This is a spoiler block. It contains hidden content that will be revealed when clicked.</p>
-</details>
-
-
 
 ### Opensource activity
 * [Raycast/extensions/speedtest](https://www.raycast.com/tonka3000/speedtest)
