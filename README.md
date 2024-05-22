@@ -27,7 +27,7 @@
 I worked as a web developer for 3+ years. Then, I had to take a break for a year. In May 2024, I returned and am now getting back on track.
 
 
-### Here's a list of what I accomplished as the Lead Frontend Developer on the last project:
+### Here's a list of what I accomplished on the last project:
 
 <details>
   <summary>Implementation of Reusable Modules/Components</summary>
