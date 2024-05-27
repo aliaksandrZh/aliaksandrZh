@@ -1,96 +1,114 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=06161D&random=false&width=600&height=400&lines=Hi+%F0%9F%91%8B!;I'm+Aliaksandr+Zhebit)](https://git.io/typing-svg)
+# 👋 Hello! I'm Aliaksandr Zhebit
 
- I'm a Software engineer with a passion  for web development.
-
-### Connect with me: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-zhebit-65489b272/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaksandr,zhebit@gmail.com)
-
-### Skills
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-
-## Past expirience
-
-I worked as a web developer for 3+ years. Then, I had to take a break for a year. In May 2024, I returned and am now getting back on track.
+<aside>
+Experienced software engineer with a background in web development. Possesses 3+ years of industry experience with expertise in frontend and full-stack development. Recently returned to the workforce after a year-long break and eager to leverage skills and knowledge to contribute to innovative    projects.
+</aside>
 
 
-### Here's a list of what I accomplished on the last project:
+## ✉️ Contact
 
-<details>
-  <summary>Implementation of Reusable Modules/Components</summary>
-  <p>Developed modular and reusable components to enhance code maintainability and scalability.</p>
-</details>
-<details>
-  <summary>Creation of Feature Modules</summary>
-  <p>Designed and implemented feature modules with intricate logic and interceptors for handling URL versions, ensuring seamless user experiences.</p>
-</details>
-<details>
-  <summary>Performance Optimization</summary>
-  <p>Improved the performance of tables and overall application by implementing optimization techniques.</p>
-</details>
-<details>
-  <summary>Codebase Refinement</summary>
-  <p>Conducted codebase cleanups, eliminating duplicate components, setting up eslint, and resolving type issues, thereby enhancing code quality.</p>
-</details>
-<details>
-  <summary>Enhanced Developer Experience</summary>
-  <p>Optimized local rebuild processes, significantly reducing build times from minutes to mere seconds, thereby boosting developer productivity.</p>
-</details>
-<details>
-  <summary>Test Coverage Improvement</summary>
-  <p>Increased test coverage from 30% to 70%, ensuring robustness and reliability of the application.</p>
-</details>
-<details>
-  <summary>Support and Enhancement of Micro Frontend (MFE) System</summary>
-  <p>Played a pivotal role in supporting and enhancing the MFE system, including chunk generation, lazy loading, and resolving critical issues.</p>
-</details>
-<details>
-  <summary>Mentoring and Knowledge Sharing</summary>
-  <p>Mentored UI developers from other teams, fostering a culture of continuous learning and knowledge sharing.</p>
-</details>
-<details>
-  <summary>Contribution to DevOps</summary>
-  <p>Provided basic DevOps support, including managing variables, restarting pods, and optimizing Git flow with pre-push hooks.</p>
-</details>
-<details>
-  <summary>C# Development</summary>
-  <p>Created new endpoints, tables, and migrations, and supported import/export functionalities, addressing critical business needs.</p>
-</details>
-<details>
-  <summary>Bug Fixing and Issue Resolution</summary>
-  <p>Proactively identified and resolved production issues, ensuring smooth operation of applications.</p>
-</details>
+- **Email Address:** [aliaksandr.zhebit@gmail.com](mailto:aliaksandr.zhebit@gmail.com)
+- **LinkedIn Profile:** [Click](https://www.linkedin.com/in/aliaksandr-zhebit-65489b272/)
 
-<details>
-  <summary>Interview Participation</summary>
-  <p>Actively participated in the interview process, providing technical insights and conducting frontend development talks.</p>
-</details>
-
-<details>
-  <summary>Technology Upgrade</summary>
-  <p>Led the upgrade process from Angular 7 to Angular 14, ensuring compatibility and leveraging new features and improvements.</p>
-</details>
+## 📋 Experience
 
 
+**Software Engineer - iTechArt Group** <i>2020-2023</i>
 
-### Opensource activity
-* [Raycast/extensions/speedtest](https://www.raycast.com/tonka3000/speedtest)
-* [Ryacast/extensions/consoledev](https://www.raycast.com/fedevitaledev/consoledev)
+- Developed and maintained web applications using technologies such as JavaScript, TypeScript, .Net, React, Angular, NodeJS, and SQL.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+- Participated in code reviews, troubleshooting, and optimization efforts to improve application performance and reliability.
+
+## 🖥️ Projects
+
+**Lead Frontend / Full-Stack Engineer - Ernst & Young (EY) Raptor** <i>2021-2023</i>
 
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaksandrZh&layout=compact)
+Ernst & Young (EY) Raptor refers to a secure, cloud-based technology platform known as the EY Global Tax Platform (GTP). This platform integrates various data sources and provides advanced analytics, dashboards, and reporting capabilities to offer end-to-end finance and tax visibility and compliance solutions. The GTP is designed to help organizations manage their tax functions more effectively by leveraging data and technology to transform, grow, and operate efficiently.
 
+**Key Contributions and Achievements:**
+
+- Spearheaded the frontend development efforts as Lead Engineer, overseeing the design, development, and optimization of modular and reusable components.
+- Designed and implemented feature modules with intricate logic and interceptors, ensuring seamless user experiences across different versions of the application.
+- Improved application performance and responsiveness through optimization techniques, resulting in a 20% increase in application responsiveness and a 30% reduction in development time.
+- Conducted extensive codebase cleanups, enhancing code quality and reducing technical debt, leading to improved maintainability and scalability.
+- Increased test coverage from 30% to 70%, ensuring robustness and reliability of the application.
+- Played a pivotal role in supporting and enhancing the Micro Frontend (MFE) system, including chunk generation, lazy loading, and resolving critical issues.
+- Mentored UI developers from other teams, fostering a culture of continuous learning and knowledge sharing.
+- Provided basic DevOps support, including managing variables, restarting pods, and optimizing Git flow with pre-push hooks.
+- Proactively identified and resolved production issues, ensuring smooth operation of applications and minimizing downtime.
+- Contributed to the development of new endpoints, tables, and migrations, addressing critical business needs and supporting import/export functionalities.
+
+**Frontend Engineer - MPRE** <i>2020-2021</i>
+
+MPRE is a Swiss company specializing in mortgage and real estate services. The platform integrates property search, valuation, and financing solutions, utilizing advanced data analytics to offer personalized, transparent, and efficient real estate management tools, supporting users throughout the property lifecycle.
+
+**Key Contributions and Achievements:**
+
+- Led the frontend development efforts, collaborating closely with cross-functional teams to deliver end-to-end solutions.
+- Enhanced user interface and scalability of the platform using Angular, Angular Material, and ChartJs, resulting in a more intuitive and efficient user experience.
+- Integrated Google APIs, including Google Maps, Google Streetview, and Google Analytics, to provide enhanced functionality and user insights.
+- Refactored and redesigned the source code.
+
+**Raycast - Open Source**
+
+A collection of powerful productivity tools all within an extendable launcher. 
+
+- **Extensions**
+    - **Speedtest**
+        - Contributed to the development of the SpeedTest extension for Raycast, enabling users to quickly test their internet speed directly from the Raycast app.
+        - Technologies Used: NodeJS, React, Speedtest CLI
+    - **ConsoleDev**
+        - Contributed to the ConsoleDev extension for Raycast, facilitating developers' workflow by providing quick access to news.
+        - Technologies Used: NodeJS, React.
+
+## 📋 Education
+
+
+**Bachelor's Degree - Francisk Skorina Gomel State University**   <i>2019</i>
+
+
+## 🗒️ Certifications and Professional Development
+
+
+- Angular - The Complete Guide, Udemy, <i>2023</i>
+- RxJs In Practice, Udemy,  <i>2023</i>
+- JavaScript: The Advanced Concepts, Udemy,  <i>2023</i>
+- Reactive Angular Course, Udemy,  <i>2023</i>
+- Angular Testing Masterclass (Angular 15), Udemy,  <i>2023</i>
+- Become a CSS Master: Code 30 Projects in 30 Days, Udemy,  <i>2023</i>
+- Angular Forms In Depth (Angular 17), Udemy,  <i>2024</i>
+- Angular Deep Dive - Beginner to Advanced (Angular 17), Udemy,  <i>2024</i>
+- Angular Router in Depth (Angular 17), Udemy,  <i>2024</i>
+- JavaScript Pro: Mastering Advanced Concepts and Techniques, Udemy,  <i>2024</i>
+- JavaScript programming (Foundation, Expert, Advanced), studysection,  <i>2024</i>
+- JavaScript top 10%, Testdom,  <i>2024</i>
+
+## 🥷 Skills
+
+
+### 🥷 Technical
+
+- JavaScript
+- TypeScript
+- .Net
+- React
+- Angular
+- NodeJS
+- SQL
+- Git
+- Docker
+- Sentry
+- CircleCI
+
+### 🥷 Soft
+
+- Teamwork
+- Problem-Solving
+- Adaptability
+- Work Ethic
+- Attention to Detail
+- Emotional Intelligence
+- Critical Thinking
+- Quick learner
+- High efficiency
