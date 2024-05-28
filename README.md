@@ -68,22 +68,6 @@ A collection of powerful productivity tools all within an extendable launcher.
 **Bachelor's Degree - Francisk Skorina Gomel State University**   <i>2019</i>
 
 
-## 🗒️ Certifications and Professional Development
-
-
-- Angular - The Complete Guide, Udemy, <i>2023</i>
-- RxJs In Practice, Udemy,  <i>2023</i>
-- JavaScript: The Advanced Concepts, Udemy,  <i>2023</i>
-- Reactive Angular Course, Udemy,  <i>2023</i>
-- Angular Testing Masterclass (Angular 15), Udemy,  <i>2023</i>
-- Become a CSS Master: Code 30 Projects in 30 Days, Udemy,  <i>2023</i>
-- Angular Forms In Depth (Angular 17), Udemy,  <i>2024</i>
-- Angular Deep Dive - Beginner to Advanced (Angular 17), Udemy,  <i>2024</i>
-- Angular Router in Depth (Angular 17), Udemy,  <i>2024</i>
-- JavaScript Pro: Mastering Advanced Concepts and Techniques, Udemy,  <i>2024</i>
-- JavaScript programming (Foundation, Expert, Advanced), studysection,  <i>2024</i>
-- JavaScript top 10%, Testdom,  <i>2024</i>
-
 ## 🥷 Skills
 
 
