@@ -61,6 +61,9 @@ A collection of powerful productivity tools all within an extendable launcher.
     - **ConsoleDev**
         - Contributed to the ConsoleDev extension for Raycast, facilitating developers' workflow by providing quick access to news.
         - Technologies Used: NodeJS, React.
+    - **Toggle Audio Input**
+        - The extension has a command to directly mute/unmute the audio input, but there's also a menu bar extension showing if it's either muted or not, and lets you click on the menu item to toggle its state.
+        - NodeJS, React, AppleScript
 
 ## 📋 Education
 
