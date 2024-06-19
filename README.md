@@ -9,4 +9,4 @@ Experienced software engineer with a background in web development. Possesses 3+
 
 - **Email Address:** [aliaksandr.zhebit@gmail.com](mailto:aliaksandr.zhebit@gmail.com)
 - **LinkedIn Profile:** [Click](https://www.linkedin.com/in/aliaksandr-zhebit-65489b272/)
-- **CV:** [Click](https://aliaksandrzh.github.io/cv/)
+- **CV:** [Click](https://github.com/aliaksandrZh/cv)
